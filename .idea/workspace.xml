@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02db01ab-2d4f-4390-a227-f1c9c7c7e00b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise4.iml" afterDir="false" />
+    <list default="true" id="02db01ab-2d4f-4390-a227-f1c9c7c7e00b" name="Changes" comment="subiendo archivos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inmobiliaria/peopertyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inmobiliaria/peopertyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Juanjorodriguez09 &lt;140571811+juanjorodriguez09@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -38,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.peopertyMain.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -74,11 +76,53 @@
       <workItem from="1707358185219" duration="1143000" />
       <workItem from="1707406277619" duration="299000" />
       <workItem from="1707406672856" duration="85000" />
-      <workItem from="1707406780917" duration="1846000" />
+      <workItem from="1707406780917" duration="2661000" />
+      <workItem from="1707792520316" duration="229000" />
+      <workItem from="1707827954115" duration="2277000" />
     </task>
+    <task id="LOCAL-00001" summary="subiendo archivos">
+      <option name="closed" value="true" />
+      <created>1707409577857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707409577857</updated>
+    </task>
+    <task id="LOCAL-00002" summary="subiendo archivos">
+      <option name="closed" value="true" />
+      <created>1707409607188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707409607188</updated>
+    </task>
+    <task id="LOCAL-00003" summary="subiendo archivos">
+      <option name="closed" value="true" />
+      <created>1707409875686</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707409875686</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="subiendo archivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="subiendo archivos" />
   </component>
 </project>
